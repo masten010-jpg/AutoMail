@@ -28,19 +28,51 @@ if not gmail_user or not app_passwort:
 template_m = """\
 Betreff: {betrefftext}
 Guten Tag sehr Geehrter Herr {nameabfr}.
+mein Name ist Roony H. — ich arbeite freiberuflich neben dem Studium an praxisnahen Lösungen, die kleine Büros, Kanzleien und Dienstleister im Alltag digital entlasten. Ich bin derzeit in einer kurzen Erhebungsphase, um reale Probleme zu verstehen, bevor ich automatisierte Tools und Service-Pakete entwerfe.
 
-mein Name ist Roony H. — ich arbeite freiberuflich neben dem Studium an praxisnahen Lösungen...
+Dürfte ich Ihnen 2 Minuten Ihrer Zeit bitten?
+Ich habe eine sehr kurze Google-Umfrage erstellt (max. 8 Fragen). Die Antworten bleiben anonym (oder: werden nur zur Auswertung genutzt — keine Weitergabe an Dritte). Ziel ist es, echte Prioritäten zu erkennen — nicht, Ihnen etwas aufzudrücken.
 
-(gekürzt für Übersicht)
+Hier ist der Link: https://forms.gle/sQ5mV7GHgThwiKLK9
+
+Kurz zur Transparenz:
+• Ich handle derzeit als Privatperson/freiberuflich (kein eingetragener Betrieb).
+
+• Ihre Teilnahme  ist freiwillig.
+• Ihre Antworten werden ausschließlich zur Auswertung des Bedarfs und zur Entwicklung möglicher, unverbindlicher Lösungen verwendet.
+
+• Wenn Sie nicht möchten, dass ich Sie weiter kontaktiere, schreiben Sie bitte kurz „Kein Kontakt“ in das freie Feld der Umfrage oder antworten Sie mir direkt auf diese E-Mail.
+
+Danke für Ihre Zeit — selbst 2 Minuten helfen enorm, die richtigen Lösungen zu bauen. Wenn Sie möchten, sende ich Ihnen gern eine kurze Zusammenfassung der Ergebnisse und mögliche erste Ideen zurück.
+
+Freundliche Grüße
+H. Roony
+Hinweis: Bitte antworten Sie einfach auf diese Nachricht, wenn Sie keine weiteren Mails wünschen
 """
 
 template_w = """\
 Betreff: {betrefftext}
 Guten Tag sehr Geehrte Frau {nameabfr}.
+mein Name ist Roony H. — ich arbeite freiberuflich neben dem Studium an praxisnahen Lösungen, die kleine Büros, Kanzleien und Dienstleister im Alltag digital entlasten. Ich bin derzeit in einer kurzen Erhebungsphase, um reale Probleme zu verstehen, bevor ich automatisierte Tools und Service-Pakete entwerfe.
 
-mein Name ist Roony H. — ich arbeite freiberuflich neben dem Studium...
+Dürfte ich Ihnen 2 Minuten Ihrer Zeit bitten?
+Ich habe eine sehr kurze Google-Umfrage erstellt (max. 8 Fragen). Die Antworten bleiben anonym (oder: werden nur zur Auswertung genutzt — keine Weitergabe an Dritte). Ziel ist es, echte Prioritäten zu erkennen — nicht, Ihnen etwas aufzudrücken.
 
-(gekürzt für Übersicht)
+Hier ist der Link: https://forms.gle/sQ5mV7GHgThwiKLK9
+
+Kurz zur Transparenz:
+• Ich handle derzeit als Privatperson/freiberuflich (kein eingetragener Betrieb).
+
+• Ihre Teilnahme  ist freiwillig.
+• Ihre Antworten werden ausschließlich zur Auswertung des Bedarfs und zur Entwicklung möglicher, unverbindlicher Lösungen verwendet.
+
+• Wenn Sie nicht möchten, dass ich Sie weiter kontaktiere, schreiben Sie bitte kurz „Kein Kontakt“ in das freie Feld der Umfrage oder antworten Sie mir direkt auf diese E-Mail.
+
+Danke für Ihre Zeit — selbst 2 Minuten helfen enorm, die richtigen Lösungen zu bauen. Wenn Sie möchten, sende ich Ihnen gern eine kurze Zusammenfassung der Ergebnisse und mögliche erste Ideen zurück.
+
+Freundliche Grüße
+H. Roony
+Hinweis: Bitte antworten Sie einfach auf diese Nachricht, wenn Sie keine weiteren Mails wünschen
 """
 
 # ======================================================
